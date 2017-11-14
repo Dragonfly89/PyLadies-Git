@@ -1,2 +1,3 @@
 ABCDEFGHIHJK
 Plik testowy
+Zmiana dodatkowa
